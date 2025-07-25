@@ -1,0 +1,10 @@
+langserve==0.0.40
+fastapi<0.110
+pydantic<2
+uvicorn
+langchain-core==0.2.43
+python-dotenv
+langchain_groq
+httpx==0.23.3
+sse_starlette
+streamlit

@@ -1,0 +1,28 @@
+# Core
+python-dotenv>=1.0.0
+langchain>=0.2.0
+
+# LLMs & Tokenization
+tiktoken>=0.7.0
+
+# Vector Store (ChromaDB)
+chromadb>=0.4.24
+
+# Web + Git
+requests>=2.31.0
+GitPython>=3.1.43
+PyGithub
+
+# Agent Framework (future use)
+crewai>=0.27.5
+
+langchain-community>=0.2.0
+streamlit
+
+# Vector DB
+chromadb
+sentence-transformers
+
+
+langchain-ollama
+langchain-chroma

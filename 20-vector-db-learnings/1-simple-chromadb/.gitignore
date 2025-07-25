@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches and temporary files
+*.log
+*.tmp
+*.swp
+
+# Virtual environment
+simple-vectore-env/
+venv/
+.env/
+
+# Python environment config
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# ChromaDB persistent store
+chroma_store/
+
+# Datasets / embeddings / output
+data/*.csv
+data/*.json
+data/*.tsv
+data/*.parquet
+
+# Model files (if used later)
+*.bin
+*.pt
+*.pth
+*.onnx
+
+# Ollama models (if downloaded to local dir later)
+ollama_models/

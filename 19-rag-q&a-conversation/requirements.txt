@@ -1,0 +1,17 @@
+langserve==0.0.40
+fastapi<0.110
+uvicorn
+langchain-core==0.2.43
+python-dotenv
+langchain-openai
+httpx==0.23.3
+sse_starlette
+streamlit
+langchain-community
+transformers
+langchain
+openai
+langchain_groq
+pypdf
+langchain-chroma
+langchain_huggingface

@@ -1,0 +1,5 @@
+ChromaDB is a lightweight open-source vector database.
+
+It is designed for embedding-based search and retrieval.
+
+FAISS is another vector search engine optimized for similarity.
